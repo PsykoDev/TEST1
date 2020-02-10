@@ -1,0 +1,15 @@
+{
+    "name": "TEST",
+    "options": {
+        "niceName": "TEST",
+        "guiName": "TEST",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "ZC",
+    "description": "描述: TEST",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/TEST/master/"],
+    "supportUrl": "https://github.com/tera-mod/TEST/issues",
+    "version": "90.02"
+}
