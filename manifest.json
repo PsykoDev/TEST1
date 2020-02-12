@@ -1,6 +1,6 @@
 {
     "files": {
-        "index.js": "21c786de68e817d16b59c60d67449302c1f6af62356043ffde9185a40aa88280",
+        "index.js": "e009ea7d03f2ce76fc96f2eb634ef5b90cd1e17fdc4dd89164c977ad40baa2e7",
         "module.json": "99526296a3ecbfa2e1e4d5c6cd63015c5e91abc0e7528617169ff347fc41249b",
         "settings_migrator.js": "bc00ba1d14b30f9e0a75fdb060a1eb7b4d801fc1d67910b40f298245c4f3d1c6",
         "settings_structure.js": "c63053fb5002677ea3a100b94b9aa0a0d2dc0e829aa345715659e7c280618c38"
