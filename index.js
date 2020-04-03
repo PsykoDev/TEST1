@@ -27,13 +27,13 @@ module.exports = function TEST(mod) {
 	
 	let Stream;
 	mod.command.add("hook", () => {
-		mod.command.message("开始监听1次 " + mod.settings.DefName);
-		mod.log("开始监听1次 " + mod.settings.DefName);
+		mod.command.message("start listening once " + mod.settings.DefName);
+		mod.log("start listening once " + mod.settings.DefName);
 		
 		mod.hookOnce(mod.settings.DefName, 'raw', (code, data) => {
 			Stream = new Readable(data);
-			mod.command.message("已监听1次 " + mod.settings.DefName + " 数据!");
-			mod.log("已监听1次 " + mod.settings.DefName + " 数据!");
+			mod.command.message("already listend once " + mod.settings.DefName + " data!");
+			mod.log("already listend once " + mod.settings.DefName + " data!");
 		})
 	})
 	

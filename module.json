@@ -9,7 +9,7 @@
     },
     "author": "ZC",
     "description": "描述: TEST1",
-    "servers": ["https://raw.githubusercontent.com/tera-mod/TEST1/master/"],
-    "supportUrl": "https://github.com/tera-mod/TEST1/issues",
+    "servers": [""],
+    "supportUrl": "",
     "version": "91.04"
 }
